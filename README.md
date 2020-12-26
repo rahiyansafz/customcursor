@@ -38,6 +38,6 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 Follow Stefan Kaltenegger: [Twitter](https://twitter.com/skaltenegger), [GitHub](https://github.com/skaltenegger)
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
 
 [© Codrops 2019](http://www.codrops.com)
